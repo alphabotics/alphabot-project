@@ -1,3 +1,3 @@
 # Alphabot Project
 
-Alphabot is open source robotics project builds with Go and Python.
+Alphabot is an open source robotics project which is developed based on Go, Python and C++ programming language in different features.
